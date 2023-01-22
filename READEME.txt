@@ -1,0 +1,7 @@
+How to run this project
+
+1. Install yarn in your machine
+2. Navigate to project root directory
+3. Install all dependencies by using command: yarn install
+4. Make dist directory to trasnlate Ts to Js by using command: yarn Build 
+5. Running the development mode by using command: yarn run dev
